@@ -1,0 +1,18 @@
+# Virtual environments
+.venv
+.kiro
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+*.code-workspace
+.vscode/
